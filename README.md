@@ -2,7 +2,7 @@
 
 # osu!standard
 
-## Modified version of White Cat skins
+## Modified version of White Cat skin
 
 ![](./WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F/screenshot.png)
 
